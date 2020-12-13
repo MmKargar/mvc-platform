@@ -1,5 +1,5 @@
 {
-    "name": "mmkargar/mvc-core-php5",
+    "name": "mmkargar/mvc-platform",
     "description": "mvc-paltform-by-mmkargar",
     "require": {
         "illuminate/database": "^5.0",
