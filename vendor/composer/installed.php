@@ -6,8 +6,8 @@
     'aliases' => 
     array (
     ),
-    'reference' => '51016beb851925fbb2c963ef887f5c15fdd295ac',
-    'name' => 'mmkargar/mvc-core-php5',
+    'reference' => '43a67f9f5244ff1d5245b12acaf15dad6c63cf2a',
+    'name' => 'mmkargar/mvc-platform',
   ),
   'versions' => 
   array (
@@ -65,14 +65,14 @@
       ),
       'reference' => 'df4af6a32908f1d89d74348624b57e3233eea247',
     ),
-    'mmkargar/mvc-core-php5' => 
+    'mmkargar/mvc-platform' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => '51016beb851925fbb2c963ef887f5c15fdd295ac',
+      'reference' => '43a67f9f5244ff1d5245b12acaf15dad6c63cf2a',
     ),
     'nesbot/carbon' => 
     array (
