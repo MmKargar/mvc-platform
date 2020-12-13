@@ -1,5 +1,5 @@
 # PHP MVC PLATFORM
-    ```
+    ```s
     this platform is just made to use a good mvc on old php devices
     this is using [illuminate/database](https://github.com/illuminate/database/tree/5.0)
     so you can connent to database easily!
